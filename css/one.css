@@ -1,0 +1,277 @@
+body {
+    color: #00FFFF;
+    background-image:url(../image/preview.jpg);
+    font-family: Arial, sans-serif;
+    font-size:14px;
+   
+  }
+  
+  a {
+    color: #0188cc;
+  }
+  html, body {
+    height: 100%;
+  }
+  
+  .wrapper {
+    float:left;
+	background-color: #ffffff;
+	width: 80%;
+	margin-left: 5em;
+margin-right: 5em;
+height: 80%;
+  }
+  .oneColumn, .linksColumn, .wrapper {
+    padding: 2em;
+  }
+  .oneColumn {
+	color: #FFFFFF;
+    float: left;
+    width: 80%;
+    height: 120px;
+    
+	margin-left: 5em;
+margin-right: 5em;
+    background-color: #008080;
+    background-image: -moz-radial-gradient(left top, circle, #6ac9f9 0%, #008080 60%);
+    background-image: -webkit-gradient(radial, 0 0, 1, 0 0, 500, from(#6ac9f9), to(#008080));
+  }
+  
+  .twoColumn {
+	color: #AAAA00;
+    float: left;
+	vertical-align:top;
+    width: 20%;
+    height: 80%;
+    text-align: centre;
+    padding-top: 2em;
+	margin-left: 5em;
+	margin-bottom: 5em;
+    background-color: #FFFFFF;
+    
+  }
+  .twoColumn p {
+    width: 75%;
+    float:right;
+  }
+  .threeColumn {
+	color: #AAAA00;
+    float: left;
+	vertical-align:top;
+    width: 25%;
+    height: 80%;
+    text-align: centre;
+    padding-top: 2em;
+	margin-left: 5em;
+	margin-bottom: 5em;
+    background-color: #FFFFFF;
+    
+    
+  }
+  .threeColumn p {
+    width: 75%;
+    float:right;
+  }
+  .linksColumn {
+    float: left;
+    width: 50%;
+    height: 100%;
+   #background-color: #cccccc;
+  }
+  
+  .botface {
+    float: right;
+	vertical-align:bottom;
+    width: 200px;
+    height: 240px;  
+	margin-top: 250px;
+	margin-bottom: 0em;
+    background-color: #AAAAAA; 
+ overflow: hidden; /* this is important */
+    position: relative; /* this is important too */	
+  }
+  
+.bot-tellme {           /* top, right, bottom, left */
+    position: absolute;
+    top: -80px;
+    left: -100px;
+}
+.bot-great {           /* top, right, bottom, left */
+    position: absolute;
+    top: -80px;
+    left: -100px;
+}
+.bot-anger1 {           /* top, right, bottom, left */
+    position: absolute;
+    top: -80px;
+    left: -100px;
+}
+.bot-like {           /* top, right, bottom, left */
+    position: absolute;
+    top: -80px;
+    left: -100px;
+}
+.bot-blush{           /* top, right, bottom, left */
+    position: absolute;
+    top: -80px;
+    left: -100px;
+}
+.bot-thinking {           /* top, right, bottom, left */
+    position: absolute;
+    top: -80px;
+    left: -100px;
+}
+.bot-anger3 {           /* top, right, bottom, left */
+    position: absolute;
+    top: -80px;
+    left: -100px;
+}
+.bot-eager {           /* top, right, bottom, left */
+    position: absolute;
+    top: -80px;
+    left: -100px;
+}
+.bot-anger2 {           /* top, right, bottom, left */
+    position: absolute;
+    top: -80px;
+    left: -100px;
+}
+.bot-wink{           /* top, right, bottom, left */
+    position: absolute;
+    top: -80px;
+    left: -100px;
+}
+.bot-confused {           /* top, right, bottom, left */
+    position: absolute;
+    top: -80px;
+    left: -100px;
+}
+.bot-awsome {           /* top, right, bottom, left */
+    position: absolute;
+    top: -80px;
+    left: -100px;
+}
+.bot-ohyeah {           /* top, right, bottom, left */
+    position: absolute;
+    top: -80px;
+    left: -100px;
+}
+.bot-love {           /* top, right, bottom, left */
+    position: absolute;
+    top: -80px;
+    left: -100px;
+}
+.bot-victory{           /* top, right, bottom, left */
+    position: absolute;
+    top: -80px;
+    left: -100px;
+}
+.bot-tired {           /* top, right, bottom, left */
+    position: absolute;
+    top: -80px;
+    left: -100px;
+}
+.bot-smile {           /* top, right, bottom, left */
+    position: absolute;
+    top: -80px;
+    left: -100px;
+}
+.bot-love2 {           /* top, right, bottom, left */
+    position: absolute;
+    top: -80px;
+    left: -100px;
+}
+.bot-bye1{           /* top, right, bottom, left */
+    position: absolute;
+    top: -80px;
+    left: -100px;
+}
+.bot-bye2 {           /* top, right, bottom, left */
+    position: absolute;
+    top: -80px;
+    left: -100px;
+}
+.bot-what {           /* top, right, bottom, left */
+    position: absolute;
+    top: -80px;
+    left: -100px;
+}
+.bot-coffee {           /* top, right, bottom, left */
+    position: absolute;
+    top: -80px;
+    left: -100px;
+}
+.bot-music {           /* top, right, bottom, left */
+    position: absolute;
+    top: -80px;
+    left: -100px;
+}
+.bot-book{           /* top, right, bottom, left */
+    position: absolute;
+    top: -80px;
+    left: -100px;
+}
+.bot-cry {           /* top, right, bottom, left */
+    position: absolute;
+    top: -80px;
+    left: -100px;
+}
+
+  .th
+
+  h1 {
+    font-size: 40px;
+    font-weight: normal;
+	text-align:left
+	
+   
+  }
+  h2 {
+    font-size: 20px;
+    font-weight: normal;
+  }
+  ul {
+    padding-left: 1em;
+    margin: 0px;
+  }
+  li {
+    margin: 1em 0em;
+  }
+
+  #generateTrace {
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    padding: 10px 16px;
+    font-size: 18px;
+    line-height: 1.3333333;
+    border-radius: 6px;
+    color: #eee;
+    background-color: #0188cc;
+    border-color: white;
+    text-decoration: none;
+  }
+  #generateTrace:hover {
+    background-color: transparent;
+    color: #0188cc;
+  }
+
+  .linksColumn p {
+    color: #0188cc;
+  }
